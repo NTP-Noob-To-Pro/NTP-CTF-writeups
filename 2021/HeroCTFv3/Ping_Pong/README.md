@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-![periodic table](PingPong.png)
+![challenge info](PingPong.png)
 
 <br/>
 <br/>
